@@ -35,7 +35,7 @@ Clone this repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/kenya-bank-app.git
+git clone https://github.com/souldes05/kenya-bank-app.git
 cd kenya-bank-app
 Create a virtual environment (optional but recommended)
 
