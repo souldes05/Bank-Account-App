@@ -103,7 +103,7 @@ For persistent storage (e.g. database or CSV), enhancements can be added.
 
 🙌 Author
 Desmond Tutu
-📧 Email: yourname@example.com
+📧 Email: destutu2005@gmail.com
 🔗 GitHub: @your-username
 
 📄 License
