@@ -104,7 +104,7 @@ For persistent storage (e.g. database or CSV), enhancements can be added.
 🙌 Author
 Desmond Tutu
 📧 Email: destutu2005@gmail.com
-🔗 GitHub: @your-username
+🔗 GitHub: @souldes05
 
 📄 License
 This project is licensed under the MIT License.
